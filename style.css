@@ -1,0 +1,61 @@
+html,body{
+    background-image: url("backgroundGradient.jpg");
+    background-size: cover;
+    font-size: 20px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    margin-right: 20px;
+    width:200px;
+}
+
+.linkedin{
+    margin:0 30px;
+}
+
+.intro {
+    display: flex;
+    justify-content: start;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 30px;
+}
+
+.projects-container{
+    margin-bottom: 50px;
+}
+
+.project-header {
+    text-align: center;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 300px;
+    border: 1px gray solid;
+    border-radius: 5px;
+}
+
+.description {
+    padding-left: 8px;
+}
+
+.preview-pic{
+    width: 300px;
+    border-radius: 5px;
+}
+
+footer{
+    text-align: center;
+}
+
+
+
