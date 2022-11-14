@@ -5,8 +5,9 @@ html,body{
 }
 
 .profile-pic{
-    border-radius: 50%;
+    border-radius: 40%;
     margin-right: 30px;
+    margin-left: 20px;
     width:180px;
 }
 
