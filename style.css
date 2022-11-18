@@ -1,8 +1,9 @@
-html,body{
+body{
     background-image: url("backgroundGradient.jpg");
     background-size: cover;
     font-size: 20px;
     margin: 0;
+    text-align: center;
 }
 
 header a{
@@ -27,14 +28,11 @@ header{
     justify-content:start;
     padding: 10px;
     border-bottom: 1px rgb(190, 206, 213) solid;
+    text-align: left;
 }
 
 .projects-container{
     margin-bottom: 50px;
-}
-
-.project-header {
-    text-align: center;
 }
 
 .cards-container {
@@ -59,7 +57,7 @@ header{
 }
 
 footer{
-    text-align: center;
+    /* text-align: center; */
     padding-bottom: 50px;
 }
 
